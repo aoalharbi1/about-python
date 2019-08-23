@@ -3,7 +3,6 @@
     padding: 0px;
     box-sizing: border-box;
     color: #E6EEF4;
-    /* outline: 1px red dashed; */
 }
 .container {
     width: 1000px;
@@ -153,7 +152,7 @@
     color: black;
 }
 .small_box ul {
-    padding: 0px 80px 0px 80px;
+    padding: 0px 20px 0px 80px;
 }
 .small_box ul li {
     text-align: left;
